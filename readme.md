@@ -10,12 +10,13 @@ Add your presentation here..
 ...
 
 # Reasons why I joined the Career Accelerator ?
+...
 
 # What did I learn during the program ?
 ...
 
 ## Projects' Summary Table
-
+...
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -95,4 +96,4 @@ Add your presentation here..
 Add your contacts here..
 
 ## Freestyle
-Feel free to add more sections if you want to show some thoughts or personal works, etc.
+Feel free to add more sections if you want to share some thoughts or personal works, etc.

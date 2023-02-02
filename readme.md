@@ -27,7 +27,7 @@ Here is the place to tell the story of your experience of the Career Accelerator
 
 <tr>
 <td>1</td>
-<td>&nbsp;</td>
+<td> </td>
 <td>Add the project description here...</td>
 <td>Add the app link here...</td>
 <td>Add the article link here...</td>
@@ -42,10 +42,12 @@ Here is the place to tell the story of your experience of the Career Accelerator
 <td> </td>
 <td> </td>
 <td> </td>
+<td> </td>
 </tr>
 
 <tr>
 <td>3</td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -60,6 +62,7 @@ Here is the place to tell the story of your experience of the Career Accelerator
 <td> </td>
 <td> </td>
 <td> </td>
+<td> </td>
 </tr>
 
 <tr>
@@ -69,10 +72,12 @@ Here is the place to tell the story of your experience of the Career Accelerator
 <td> </td>
 <td> </td>
 <td> </td>
+<td> </td>
 </tr>
 
 <tr>
 <td>6</td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>

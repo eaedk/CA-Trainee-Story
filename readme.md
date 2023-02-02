@@ -6,13 +6,13 @@ Here is the place to tell the story of your experience of the Career Accelerator
 ## Trainee's Presentation
 Add your presentation here..
 
-# What is the Career Accelerator for Me ?
+## What is the Career Accelerator for Me ?
 ...
 
-# Reasons why I joined the Career Accelerator ?
+## Reasons why I joined the Career Accelerator ?
 ...
 
-# What did I learn during the program ?
+## What did I learn during the program ?
 ...
 
 ## Projects' Summary Table

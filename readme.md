@@ -90,4 +90,4 @@ Add your presentation here..
 Add your contacts here..
 
 ## Freestyle
-Feel free to add more sections or to remove.
+Feel free to add more sections if you want to show some thoughts or personal works, etc.

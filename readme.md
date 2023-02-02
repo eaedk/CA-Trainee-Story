@@ -3,6 +3,9 @@ Here is the place to tell the story of your experience of the Career Accelerator
 
 **Instruction**: Fork, fill and embellish this repository. *Remove this instruction when you'll done.*
 
+## Trainee's Presentation
+Add your presentation here..
+
 # What is the Career Accelerator for Me ?
 ...
 
@@ -87,9 +90,6 @@ Here is the place to tell the story of your experience of the Career Accelerator
 
 </tbody>
 </table>
-
-## Trainee's Presentation
-Add your presentation here..
 
 ## Trainee's Contacts
 Add your contacts here..

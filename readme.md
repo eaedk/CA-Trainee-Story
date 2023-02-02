@@ -1,9 +1,17 @@
-# CA-Projects-Summary
-Here is the summary of the projects done during the Career Accelerator.
+# CA-Story
+Here is the place to tell the story of your experience of the Career Accelerator program.
 
+**Instruction**: Fork, fill and embellish this repository. *Remove this instruction when you'll done.*
 
+# What is the Career Accelerator for Me ?
+...
 
-## Summary table
+# Reasons why I joined the Career Accelerator ?
+
+# What did I learn during the program ?
+...
+
+## Projects' Summary Table
 
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>

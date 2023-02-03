@@ -1,7 +1,7 @@
 # Career Accelerator: Story of *___trainee_name__*
 Here is the place to tell the story of your experience of the Career Accelerator program.
 
-**Instruction**: Fork, fill and embellish this repository. *Remove this instruction when you'll done.*
+**Instruction**: Fork, fill and embellish this repository. *Remove this instruction when are done.*
 
 ## Trainee's Presentation
 Add your presentation here..
